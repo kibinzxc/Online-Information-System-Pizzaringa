@@ -13,7 +13,7 @@
         <nav>
             <a class="navbar-brand" href="index.php">
                 <div class="logo-image">
-                   <img src="assets/src/images/logo2.png" class="img-fluid">
+                   <img src="assets/src/images/logo5.png" class="img-fluid">
                 </div>
             </a>
             <ul>
