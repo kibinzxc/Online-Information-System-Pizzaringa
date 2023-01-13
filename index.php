@@ -37,7 +37,7 @@
         <div class="footer-left">
 
             <div class="logo-image">
-                <img src="assets/src/images/Logo.png">
+                <img src="assets/src/images/Logo5.png">
              </div>
 
              <p class="footer-links">
